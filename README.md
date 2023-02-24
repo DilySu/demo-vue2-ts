@@ -1,5 +1,7 @@
 # demo-vue2-ts
 
+vue2 + router + eslint + prettier + typescript
+
 ## Project setup
 ```
 yarn install

@@ -2,3 +2,7 @@ declare module "*.vue" {
   import Vue from "vue";
   export default Vue;
 }
+declare module "echarts";
+declare module "*.js";
+declare module "*.json";
+declare module "*.gif";
